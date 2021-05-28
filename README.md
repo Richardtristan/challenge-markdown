@@ -13,5 +13,5 @@
 | Genre                	| Homme         	|
 | Couleur préférée     	| Vert          	|
 | Plat préféré         	| Italien       	|
-| Ananas sur la pizza? 	| [v]non [x]oui 	|
+| Ananas sur la pizza? 	| [ x ]non [ ]oui 	|
 
