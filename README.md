@@ -22,5 +22,5 @@
 <h4> Mes hobbies</h4>
 
 * La musique
-* <br>* métal, dnb,rap us
+ <br>* métal, dnb,rap us
 * la nature (annimaux, plantes, ...)
