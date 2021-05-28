@@ -42,4 +42,4 @@
 
 ---
 
-<li><a href="https://github.com/RayaneLamri/solo-markdown/blob/main/README.md"><< précédant</a>||TRISTAN||</li><li><a href="https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md">suivant>></li>
+<li><a href="https://github.com/RayaneLamri/solo-markdown/blob/main/README.md"><< précédant</a>||TRISTAN||<a href="https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md">suivant>></li>
