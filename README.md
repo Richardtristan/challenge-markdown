@@ -33,12 +33,12 @@
 
 <h6>Une petite Histoire sur moi</h6>
 
-* J'ai une poule padoue (sorte de poule avec des plumes sur la tete voir photo ci dessous, elle s'appel <i>Tina Tuner</i>
+* J'ai une poule padoue (sorte de poule avec des plumes sur la tete) voir photo ci dessous, elle s'appele <i>Tina Turner</i>
 <br><br><img src="https://github.com/Richardtristan/challenge-markdown/blob/tristan/poule-padoue.jpg">
 
 <h7>TL;DR</h7>
 
-* Ma poule s'appel <i>Tina Turner</i>
+* Ma poule s'appele <i>Tina Turner</i>
 
 ---
 
