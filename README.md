@@ -6,5 +6,5 @@
 ## <b>Photo de moi</b>
 <br><img src="https://github.com/Richardtristan/challenge-markdown/blob/main/moi.jpg">
 <h2><b> Une phrase qui me défini :</b>
-* Une personne souriante et qui aime aider les autres.</h2>
+<p> * Une personne souriante et qui aime aider les autres.</h2> </p>
 
