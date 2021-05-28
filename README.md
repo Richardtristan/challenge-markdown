@@ -1,4 +1,4 @@
-# Richard Tristan
+#ii Richard Tristan
 <b>citation qui me défini </b>
 * <i>La chute n'est pas un échec. L'échec c'est de rester là où on est tombé.</i>
 >>>>Socrate
@@ -34,7 +34,7 @@
 <h6>Une petite Histoire sur moi</h6>
 
 * J'ai une poule padoue (sorte de poule avec des plumes sur la tete voir photo ci dessous, elle s'appel <i>Tina Tuner</i>
-<br><img src="https://github.com/Richardtristan/challenge-markdown/blob/tristan/poule-padoue.jpg">
+<br><br><img src="https://github.com/Richardtristan/challenge-markdown/blob/tristan/poule-padoue.jpg">
 
 <h7>TL;DR</h7>
 
@@ -42,4 +42,4 @@
 
 ---
 
-* <a href="https://github.com/RayaneLamri/solo-markdown/blob/main/README.md"><< précédant</a>||TRISTAN||<a href="https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md">suivant>>
+* <a href="https://github.com/RayaneLamri/solo-markdown/blob/main/README.md"><< précédant</a>|| TRISTAN ||<a href="https://github.com/abb-becode/challenge-markdown/blob/main/about-me.md">suivant>>
