@@ -10,7 +10,7 @@
 
 ---
 
-<p><h4> <b>tableau avec mes infos</b></h4></p>
+<h4><p> <b>tableau avec mes infos</p></h4>
 
 | Date d'anniversaire  	| 19/08/1993    	|
 |----------------------	|---------------	|
