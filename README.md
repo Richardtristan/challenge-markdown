@@ -27,3 +27,5 @@
 ---
 
 <h5>Vous pouvez toujours compter sur moi lorsque</h5>
+
+* lorsque vous en avez besoin, j'aime aider les autres, si je sais le faire je le fais !
