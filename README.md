@@ -29,3 +29,8 @@
 <h5>Vous pouvez toujours compter sur moi lorsque</h5>
 
 * lorsque vous en avez besoin, j'aime aider les autres, si je sais le faire je le fais !
+
+<h6>Une petite Histoire sur moi</h6>
+
+* J'ai une poule padoue (sorte de poule avec des plumes sur la tete voir photo ci dessous, elle s'appel <i>Tina Tuner</i>
+<br><img src="https://github.com/Richardtristan/challenge-markdown/blob/tristan/poule-padoue.jpg">
