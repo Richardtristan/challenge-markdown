@@ -5,5 +5,5 @@
 >>>> Socrate
 ---
 # <b>Photo de moi</b>
-*  <br><img src="https://github.com/Richardtristan/challenge-markdown/blob/main/moi.jpg">
+ <br><img src="https://github.com/Richardtristan/challenge-markdown/blob/main/moi.jpg">
 
