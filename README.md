@@ -20,6 +20,6 @@
 | Ananas sur la pizza? 	| <ul><li>[x] non</li><li>[ ] oui</li></ul>|
 ---
 <h4> Mes hobbies</h4>
+
 * La musique
-* 
 * la nature (annimaux, plantes, ...)
