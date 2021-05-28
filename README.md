@@ -10,7 +10,7 @@
 
 ---
 
-<b>tableau avec mes infos</b>
+# tableau avec mes infos
 
 | Date d'anniversaire  	| 19/08/1993    	|
 |----------------------	|---------------	|
