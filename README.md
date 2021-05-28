@@ -21,4 +21,4 @@
 ---
 <h4> Mes hobbies</h4>
 * La musique
-** la nature (annimaux, plantes, ...)
+* la nature (annimaux, plantes, ...)
