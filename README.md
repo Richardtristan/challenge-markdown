@@ -1,6 +1,6 @@
 # RICHARD Tristan
   <a href="https://richardtristan.github.io/My-CV/">lien my cv </a>
-<b>citation qui me définit </b>
+<br><b>citation qui me définit </b>
 * <i>La chute n'est pas un échec. L'échec c'est de rester là où on est tombé.</i>
 >>>>Socrate
 ---
